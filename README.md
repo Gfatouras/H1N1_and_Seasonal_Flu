@@ -14,7 +14,6 @@ The project aims to predict vaccination outcomes based on extracted features fro
 - [Business Problem](#business-problem)
 - [Data Sources](#data-sources)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Analysis and Results](#analysis-and-results)
   - [Feature Extraction](#feature-extraction)
   - [Model Creation](#model-creation)
@@ -31,14 +30,7 @@ To run the project, follow these steps:
 
 1. Clone the repository: git clone https://github.com/Gfatouras/Phase3.git
 2. Install dependencies: pip install -r requirements.txt
-
-## Usage
-
-To utilize the project for your own analysis or prediction tasks:
-
-1. Ensure the dataset is accessible and formatted correctly within the project structure.
-2. Run the provided scripts or notebooks to preprocess data, train models, and evaluate predictions.
-
+   
 ## Analysis and Results
 
 ### Feature Extraction
@@ -54,7 +46,17 @@ Multiple machine learning models were developed using the extracted features. Th
 
 ### Evaluation
 
-Models were evaluated based on various metrics such as accuracy, precision, recall, and ROC-AUC scores. Cross-validation and hyperparameter tuning techniques were employed to optimize model performance.
+Models were evaluated based on various metrics such as accuracy, confusion matricies, and ROC-AUC scores. Cross-validation and hyperparameter tuning techniques were employed to optimize model performance. 
+Below are the results of our baseline logistic regression model with no pre-preocessing or hyperparameter tuning.
+
+![image](https://github.com/Gfatouras/Phase3/assets/165408353/fe1c998b-b7da-4c04-8abc-afcb1b3d710a)
+
+
+
+Below are the results of our decision tree model using catboost for hyperparameter tuning.
+
+![image](https://github.com/Gfatouras/Phase3/assets/165408353/569350b2-93a9-4af5-966f-a359423d0366)
+
 
 ## Conclusion
 
