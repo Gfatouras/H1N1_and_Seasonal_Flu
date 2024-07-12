@@ -19,6 +19,7 @@ The project aims to predict vaccination outcomes based on extracted features fro
   - [Model Creation](#model-creation)
   - [Evaluation](#evaluation)
 - [Conclusion](#conclusions-and-recommendations)
+- [Contact](#contact)
 
 ## Data Sources
 
