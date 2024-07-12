@@ -55,6 +55,11 @@ Below are the results of our LightBGM model, which resulted in an average ROC AU
 
 ![image](https://github.com/user-attachments/assets/7121e13a-8b15-4542-8b03-7dfc1e14fe17)
 
+Below is the ROC AUC improvement from our baseline model compared to our LightGBM model.
+
+![image](https://github.com/user-attachments/assets/337757be-25f8-45f1-bbe0-650160060063)
+
+
 Below are the ROC AUC scores from each model, hyperparameter tuning was performed on all models except for our baseline. 
 
 ![image](https://github.com/user-attachments/assets/4945fd40-5cc2-498a-afe4-15fa5eb15951)
