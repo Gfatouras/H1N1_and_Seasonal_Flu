@@ -115,3 +115,15 @@ Based on the comprehensive analysis of the 2009 H1N1 Flu Survey data, we have de
 - **Broader Applications:** Develop websites and visual tools to communicate data and predictions to the public, and leverage these insights for targeted marketing by pharmaceutical companies.
 
 By implementing these recommendations, we can improve vaccination rates, prevent disease outbreaks, save lives, and create a healthier, more productive society. Predictive modeling serves as a powerful tool to guide effective vaccination strategies and improve public health outcomes on a broad scale.
+
+# Contact
+- Greg Fatouras
+  + https://github.com/Gfatouras
+  + https://www.linkedin.com/in/gfatouras/
+  + fatourasg@gmail.com
+
+- Chisum Lindauer
+  + [https://github.com/minerva-ds/](https://www.linkedin.com/in/chisum-lindauer/)
+  + https://www.linkedin.com/in/chisum-lindauer/
+  + chisum@atrixtech.com
+
