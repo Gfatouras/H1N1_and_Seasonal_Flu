@@ -28,7 +28,7 @@ We used data from the National 2009 H1N1 Flu Survey dataset, which includes anon
 
 To run the project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/Gfatouras/Phase3.git
+1. Clone the repository: git clone [https://github.com/Gfatouras/H1N1_and_Seasonal_Flu.git](https://github.com/Gfatouras/H1N1_and_Seasonal_Flu)
    
 ## Analysis and Results
 
